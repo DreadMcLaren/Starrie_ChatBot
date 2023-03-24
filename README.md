@@ -51,9 +51,9 @@ python3 bot.py
 
 **The bot will now be running and listening for messages on Discord. The log file (```error.log```) will be placed in the same directory your bot is in.**
 
-To answer questions using Discord, use ```!ask``` followed by your prompt.
+To answer questions, use ```!ask``` followed by your prompt.
 
-To generate an image with DALLE AI using Telegram, use ```!image``` followed by your prompt.
+To generate an image with DALLE AI, use ```!image``` followed by your prompt.
 
 Example:
 
