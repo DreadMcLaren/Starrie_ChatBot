@@ -24,7 +24,7 @@ pip3 install discord.py openai httpx python-dotenv
 
 5. Clone the repository
 ```
-git clone https://github.com/DreadMcLaren/Starrie_ChatBot.git
+git clone https://github.com/DreadMcLaren/Starrie_Chatbot.git
 ```
 
 6. Navigate to where you saved it
